@@ -2,6 +2,7 @@
 PocketLinks Privacy Policy
 
 Last updated: January 27, 2026
+
 PocketLinks is built and maintained by an independent developer. Your privacy is important, and PocketLinks is designed to collect as little information as possible.
 
 Information Collection
